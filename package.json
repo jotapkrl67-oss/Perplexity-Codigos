@@ -1,0 +1,10 @@
+{
+  "name": "fbgaming-vercel",
+  "version": "1.0.0",
+  "description": "FbgaminGGMAX - Perplexity Code Monitor para Vercel",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  }
+}
+
